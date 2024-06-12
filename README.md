@@ -26,10 +26,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Thomas0601/Thomas0601/output/snake.svg" alt="Snake animation" />
-
-###
  <a href="https://www.linkedin.com/in/thomas-lineker-62257a24a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+ <img src="https://raw.githubusercontent.com/Thomas0601/Thomas0601/output/snake.svg" alt="Snake animation" />
 
 
