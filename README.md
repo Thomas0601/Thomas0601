@@ -6,10 +6,14 @@
 - 📫 Entre em contato pelo email: thomaslineker2829@gmail.com
 
 <div> 
-<a href= https://github.com/Thomas0601>
-  <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=Thomas0601&theme=chartreuse-dark&show_icons=true">
-  <img height= "180cm" src="https://github.com/Thomas0601/github-readme-stats">
-    </div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thomas0601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomas0601&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
